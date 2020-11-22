@@ -64,7 +64,7 @@ namespace ProyectoFinal
             }
             catch (Exception ex)
             {
-                MessageBox.Show("MALA MIA, SE DEBIO A: " + ex);
+                MessageBox.Show("ERROR, SE DEBIO A: " + ex);
             }
         }
     }
