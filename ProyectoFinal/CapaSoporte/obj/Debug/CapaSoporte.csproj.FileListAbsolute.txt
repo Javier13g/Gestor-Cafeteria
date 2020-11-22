@@ -1,0 +1,6 @@
+C:\Users\Yavier\Desktop\ProyectoFinal\CapaSoporte\bin\Debug\CapaSoporte.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\CapaSoporte\bin\Debug\CapaSoporte.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\CapaSoporte\obj\Debug\CapaSoporte.csprojAssemblyReference.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\CapaSoporte\obj\Debug\CapaSoporte.csproj.CoreCompileInputs.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\CapaSoporte\obj\Debug\CapaSoporte.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\CapaSoporte\obj\Debug\CapaSoporte.pdb

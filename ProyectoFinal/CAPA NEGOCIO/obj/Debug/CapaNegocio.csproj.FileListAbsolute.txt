@@ -1,0 +1,13 @@
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CAPA NEGOCIO.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CAPA NEGOCIO.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaDatos.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CAPA NEGOCIO.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CAPA NEGOCIO.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaSoporte.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaSoporte.pdb

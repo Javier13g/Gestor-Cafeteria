@@ -1,0 +1,30 @@
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.INICIO.resources
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.LOGIN.resources
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CAPA NEGOCIO.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CapaDatos.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CAPA NEGOCIO.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CapaDatos.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.INICIO.resources
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.LOGIN.resources
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CapaSoporte.dll
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CapaSoporte.pdb
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ORDEN.resources
+C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.PanelEmpleado.resources

@@ -1,0 +1,13 @@
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Yavier\Documents\GitHub\C-Sharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
