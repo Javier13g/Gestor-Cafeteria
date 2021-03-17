@@ -28,3 +28,22 @@ C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CapaSoporte.dll
 C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\CapaSoporte.pdb
 C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ORDEN.resources
 C:\Users\Yavier\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.PanelEmpleado.resources
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\CAPA NEGOCIO.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\CapaSoporte.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\CapaDatos.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\CAPA NEGOCIO.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\CapaSoporte.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\bin\Debug\CapaDatos.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.PanelEmpleado.resources
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.INICIO.resources
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.LOGIN.resources
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ORDEN.resources
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

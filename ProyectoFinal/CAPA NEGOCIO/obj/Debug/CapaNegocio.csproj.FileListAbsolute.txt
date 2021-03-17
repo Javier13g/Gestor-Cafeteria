@@ -11,3 +11,12 @@ C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CAPA NEGOCIO.dll
 C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CAPA NEGOCIO.pdb
 C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaSoporte.dll
 C:\Users\Yavier\Desktop\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaSoporte.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CAPA NEGOCIO.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CAPA NEGOCIO.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaDatos.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaSoporte.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaDatos.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\bin\Debug\CapaSoporte.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CAPA NEGOCIO.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CAPA NEGOCIO\obj\Debug\CAPA NEGOCIO.pdb

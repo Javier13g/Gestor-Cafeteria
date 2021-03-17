@@ -13,3 +13,10 @@ C:\Users\Yavier\Desktop\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreC
 C:\Users\Yavier\Desktop\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\Yavier\Desktop\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Yavier\Desktop\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CapaDatos\bin\Debug\CapaSoporte.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CapaDatos\bin\Debug\CapaSoporte.pdb
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\AbdielCuevas\Documents\GitHub\Gestor-Cafeteria\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
